@@ -21,7 +21,7 @@
 
 #header {
 	overflow: hidden;
-	/*background: url(images/img02.png) no-repeat right -2em;*/ 
+	background: url(images/img02.png) no-repeat right -2em; 
 	margin: 0 auto 0 auto;
 	padding: 0 0 4em 0;
 	background-size: 90%;
