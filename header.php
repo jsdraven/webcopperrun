@@ -28,8 +28,8 @@
 		<div id="row">
 			<div id="12u">
 				<div id="logo">
-					<h1><a href="#" class="mobileUI-site-name">Azure</a></h1>
-					<p>by HTML5Templates.com</p>
+					<h1><a href="#" class="mobileUI-site-name">Ed Friel Copper Run</a></h1>
+					<p>by motherlodemakers.com</p>
 				</div>
 			</div>
 		</div>
