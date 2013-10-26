@@ -50,7 +50,7 @@
 	<div class="row">
 		<div class="12u">
 			<section>
-				<p>&copy; Your Site Name | Images: <a href="http://fotogrph.com/">Fotogrph</a> | Design: <a href="http://html5templates.com/">HTML5Templates.com</a></p>
+				<p><a href="http://motherlodemakers.com" target="new">motherlodemakers.com</a> &copy;<?php echo date('Y'); ?> | Images: <a href="http://fotogrph.com/">Fotogrph</a> | Initial Design: <a href="http://html5templates.com/">HTML5Templates.com</a></p>
 			</section>
 		</div>
 	</div>

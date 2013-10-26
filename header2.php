@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <!--
 	Azure: A responsive HTML5 website template by HTML5Templates.com
 	Released for free under the Creative Commons Attribution 3.0 license (html5templates.com/license)
@@ -38,11 +38,11 @@
 				<div class="5grid-layout" id="menu">
 					<nav class="mobileUI-site-nav">
 						<ul>
-							<li class="current_page_item"><a href="index.php">Home page</a></li>
-							<li><a href="news.php">NEWS</a></li>
-							<li><a href="contributors.php">CONTRIBUTORS</a></li>
-							<li><a href="results.php">RACE RESULTS</a></li>
-							<li><a href="onecolumn.php">ABOUT US</a></li>
+							<li class="current_page_item"><a href="index.php">Homepage</a></li>
+							<li><a href="threecolumn.php">Three Column</a></li>
+							<li><a href="twocolumn1.php">Two Column #1</a></li>
+							<li><a href="twocolumn2.php">Two Column #2</a></li>
+							<li><a href="onecolumn.php">One Column</a></li>
 						</ul>
 					</nav>
 				</div>
