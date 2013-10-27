@@ -2,46 +2,42 @@
 	<div class="row">
 		<div class="3u">
 			<section>
-				<h2>Fusce ultrices</h2>
+				<h2>Site Map</h2>
 				<ul class="style3">
-					<li class="first"><a href="#">Maecenas luctus lectus at sapien</a></li>
-					<li><a href="#">Etiam rhoncus volutpat erat</a></li>
-					<li><a href="#">Donec dictum metus in sapien</a></li>
-					<li><a href="#">Integer gravida nibh quis urna</a></li>
+					<li class="first"><a href="index.php">Home</a></li>
+					<li><a href="news.php">News</a></li>
+					<li><a href="contributors.php">Contributors</a></li>
+					<li><a href="results.php">Race Results</a></li>
+                    <li><a href="aboutus.php">About Us</a></li>
 				</ul>
 			</section>
 		</div>
 		<div class="3u">
 			<section>
-				<h2>Pellentesque congue</h2>
+				<h2>Contact Us</h2>
 				<ul class="style3">
-					<li class="first"><a href="#">Integer gravida nibh quis urna</a></li>
-					<li><a href="#">Etiam posuere augue sit amet nisl</a></li>
-					<li><a href="#">Mauris vulputate dolor sit amet nibh</a></li>
-					<li><a href="#">Nulla luctus eleifend purus</a></li>
-				</ul>
+					<li class="first"><a href="#">Donator</a></li>
+					<li><a href="#">Racer</a></li>
+					<li><a href="#">Publicity</a></li>
+                </ul>
 			</section>
 		</div>
 		<div class="3u">
 			<section>
-				<h2>Gravida blandit</h2>
+				<h2>Race Map</h2>
 				<ul class="style3">
-					<li class="first"><a href="#">Maecenas luctus lectus at sapien</a></li>
-					<li><a href="#">Etiam rhoncus volutpat erat</a></li>
-					<li><a href="#">Donec dictum metus in sapien</a></li>
-					<li><a href="#">Integer gravida nibh quis urna</a></li>
-				</ul>
+                	<li class="first"><a href="#">Half Mile</a></li>
+                    <li><a href="#">Ten K</a></li>
+                    <li><a href="#">Two Mile</a></li>
+                </ul>
 			</section>
 		</div>
 		<div class="3u">
 			<section>
-				<h2>Consectetuer adipiscing</h2>
+				<h2>Registration</h2>
 				<ul class="style3">
-					<li class="first"><a href="#">Integer gravida nibh quis urna</a></li>
-					<li><a href="#">Etiam posuere augue sit amet nisl</a></li>
-					<li><a href="#">Mauris vulputate dolor sit amet nibh</a></li>
-					<li><a href="#">Nulla luctus eleifend purus</a></li>
-				</ul>
+                	<li class="first"><a href="#">Information and Form</a></li>
+                </ul>
 			</section>
 		</div>
 	</div>
@@ -50,7 +46,7 @@
 	<div class="row">
 		<div class="12u">
 			<section>
-				<p><a href="http://motherlodemakers.com" target="new">motherlodemakers.com</a> &copy;<?php echo date('Y'); ?> | Images: <a href="http://fotogrph.com/">Fotogrph</a> | Initial Design: <a href="http://html5templates.com/">HTML5Templates.com</a></p>
+				<p><a href="http://motherlodemakers.com" target="new">motherlodemakers.com</a> &copy;<?php echo date('Y'); ?> | Initial Design: <a href="http://html5templates.com/">HTML5Templates.com</a></p>
 			</section>
 		</div>
 	</div>

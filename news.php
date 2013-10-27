@@ -8,7 +8,7 @@ require "header.php";
 			<div class="12u">
 				<section class="content">
 					<h2>Integer gravida nibh quis urna</h2>
-					<p><a href="#"><img src="images/pics06.jpg" alt=""></a>Welcome to <strong>Azure</strong>, a free responsive HTML5 website template designed by <a href="http://html5templates.com/">HTML5Templates.com</a>. It features a modern business-oriented design, 
+					<p>Welcome to <strong>Azure</strong>, a free responsive HTML5 website template designed by <a href="http://html5templates.com/">HTML5Templates.com</a>. It features a modern business-oriented design, 
 						content-dense layout, and a neutral color scheme.  And like all of our templates, it is built on HTML5 and 
 						CSS3, has full responsive support for desktops, tablets, and mobile devices, and is 100% free to use 
 						personally or commercially under the <a href="http://html5templates.com/license/">Creative Commons license</a>. 
@@ -16,7 +16,7 @@ require "header.php";
 						HTML5 templates and follow us on <a href="http://twitter.com/HTML5T">Twitter</a> for updates and new releases! Enjoy!</p>
 					<p>&nbsp;</p>
 					<p>Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus.</p>
-					<p><a href="#" class="button-style1">Read Full Article</a></p>
+					
 				</section>
 			</div>
 		</div>
@@ -45,9 +45,7 @@ require "header.php";
 			<div class="6u">
 				<section id="pbox2">
 					<h2>tellus feugiat eleifend</h2>
-					<p><a href="#"><img src="images/pics07.jpg" alt=""></a></p>
 					<p>Pellentesque viverra vulputate enim. Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. </p>
-					<p><a href="#" class="button-style1">Read Full Article</a></p>
 				</section>
 			</div>
 			<div class="3u">
@@ -69,62 +67,9 @@ require "header.php";
 			</div>
 		</div>
 	</div>
-	<div class="5grid-layout" id="footer">
-		<div class="row">
-			<div class="8u">
-				<section id="fbox1">
-					<h2>Maecenas luctus lectus</h2>
-					<p>Pellentesque viverra vulputate enim. Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus.</p>
-					<ul class="style1">
-						<li>
-							<p><a href="#"><img src="images/pics01.jpg" alt=""></a></p>
-							<p>Pellentesque viverra aliquam.</p>
-							<p><a href="#" class="button-style1">Read More</a></p>
-						</li>
-						<li>
-							<p><a href="#"><img src="images/pics02.jpg" alt=""></a></p>
-							<p>Pellentesque viverra aliquam.</p>
-							<p><a href="#" class="button-style1">Read More</a></p>
-						</li>
-						<li>
-							<p><a href="#"><img src="images/pics03.jpg" alt=""></a></p>
-							<p>Pellentesque viverra aliquam.</p>
-							<p><a href="#" class="button-style1">Read More</a></p>
-						</li>
-						<li>
-							<p><a href="#"><img src="images/pics04.jpg" alt=""></a></p>
-							<p>Pellentesque viverra aliquam.</p>
-							<p><a href="#" class="button-style1">Read More</a></p>
-						</li>
-						<li>
-							<p><a href="#"><img src="images/pics05.jpg" alt=""></a></p>
-							<p>Pellentesque viverra aliquam.</p>
-							<p><a href="#" class="button-style1">Read More</a></p>
-						</li>
-					</ul>
-				</section>
-			</div>
-			<div class="4u">
-				<section id="fbox2">
-					<h2>Nulla  eleifend</h2>
-					<ul class="style2">
-						<li>
-							<p><span class="date">20012.10.25</span><span class="heading-title">Etiam posuere augue</span></p>
-							<p><a href="#">Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. </a></p>
-						</li>
-						<li>
-							<p><span class="date">20012.10.25</span><span class="heading-title">Etiam posuere augue</span></p>
-							<p><a href="#">Quisque dictum. Integer nisl risus, sagittis elementum congue, nibh. Suspendisse dictum porta lectus. </a></p>
-						</li>
-						<li>
-							<p><span class="date">20012.10.25</span><span class="heading-title">Etiam posuere augue</span></p>
-							<p><a href="#">Quisque dictum. Integer nisl risus, sagittis elementum congue, nibh. Suspendisse dictum porta lectus. </a></p>
-						</li>
-					</ul>
-				</section>
-			</div>
-		</div>
-	</div>
+<?php
+require "newsFooter.php";
+?>
 </div>
 <?php
 require "footer.php";

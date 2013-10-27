@@ -19,5 +19,21 @@ require "header.php";
 		</div>
 	</div>
 </div>
+	<div class="5grid-layout" id="welcome">
+		<div class="row">
+			<div class="12u mobileUI-main-content">
+				<section class="content">
+					<h2>Contributors</h2>
+					<p>If you would like to contribute to use please fill out the following form.
+						If you have any questions feel free to email us at <a href="mailto:copperopolisrun@gmail.com">copperopolisrun@gmail.com</a> </p>
+
+					<h2>Racers</h2>
+					<p>For when you have questions please email us at <a href="mailto:copperopolisrun@gmail.com">copperopolisrun@gmail.com</a> or you could also click the button bellow to call us or just dial <strong>(209)</strong>
+
+
+				</section>
+			</div>
+		</div>
+	</div>
 <?php
 require "footer.php";

@@ -29,7 +29,7 @@
 			<div id="12u">
 				<div id="logo">
 					<h1><a href="#" class="mobileUI-site-name">Ed Friel Copper Run</a></h1>
-					<p>by motherlodemakers.com</p>
+					<p>by <a href="http://motherlodemakers.com" title="Built and hosted by Motherlodemakers.com" target="new">motherlodemakers.com</a></p>
 				</div>
 			</div>
 		</div>
@@ -38,11 +38,11 @@
 				<div class="5grid-layout" id="menu">
 					<nav class="mobileUI-site-nav">
 						<ul>
-							<li class="current_page_item"><a href="index.php">Home page</a></li>
-							<li><a href="news.php">NEWS</a></li>
-							<li><a href="contributors.php">CONTRIBUTORS</a></li>
-							<li><a href="results.php">RACE RESULTS</a></li>
-							<li><a href="onecolumn.php">ABOUT US</a></li>
+							<li class="current_page_item"><a href="index.php" title="Returns you to the main page.">Home</a></li>
+							<li><a href="news.php" title="Get cought up on the news.">NEWS</a></li>
+							<li><a href="contributors.php" title="Find out who helped to make this happen.">CONTRIBUTORS</a></li>
+							<li><a href="results.php" title="Whant to know how you did or someone else?">RACE RESULTS</a></li>
+							<li><a href="aboutus.php" title="See our story and what we are about.">ABOUT US</a></li>
 						</ul>
 					</nav>
 				</div>
