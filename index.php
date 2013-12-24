@@ -38,6 +38,8 @@ require "header.php";
                             </td>9:00 AM
                             </td>
                             </tr>
+                            </table>
+                            
 					  <p>1/2 Mile Run 9:45 AM</p>
 					  <p> 10K Run 10:15 AM</p>
 					  <p> T-Shirts for all race participants – 1st
@@ -102,8 +104,12 @@ require "header.php";
 	<br />
 	<br />
 <?php
-require "newsFooter.php";
+
 ?>
 </div>
+<br />
+
 <?php
+
+require "newsFooter.php";
 require "footer.php";
