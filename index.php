@@ -13,12 +13,12 @@ require "header.php";
 							<p><a href="http://www.blackoakcasino.com"  title="A big thanks to Black Oak Casino Resort" target=NEW><img src="images/bocBnG.jpg"></a></p>
 						</li>
 						<li>
-							<p class="date"><a href="#">October 31, 2012</a></p>
-							<p><a href="#">Quisque dictum. Integer nisl risus, sagittis  elementum congue, nibh. Suspendisse dictum porta lectus.</a></p>
+							<p class="date"><a href="http://paylesscopperopolis.iga.com/">Young's Payless IGA</a></p>
+							<p><a href="http://paylesscopperopolis.iga.com/" title="A big thanks to Young's Payless IGA" target=NEW><img src="images/IGA.jpg" /></a></p>
 						</li>
 						<li>
-							<p class="date"><a href="#">October21, 2012</a></p>
-							<p><a href="#">Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. </a></p>
+							<p class="date"><a href="#">Kwik Serv of Copperopolis</a></p>
+							<p><a href="#"></a></p>
 						</li>
 					</ul>
 				</section>
@@ -46,9 +46,13 @@ require "header.php";
 					  
 					  , and 3rd
 					  
-					  place Medals in all age divisions.					  </p>
+					  place Medals in all age divisions.</p>
+					  <br />
+					  <br />
 					  <p>The Copper Run 2014 lives on…because of You</p>
-					  <p align="left"> Twenty two years have passed since the Ed Friel Memorial Copper Run was founded. Since 
+					  <br />
+					  <br />
+					  <p align="left"> &nbsp; &nbsp; &nbsp;Twenty two years have passed since the Ed Friel Memorial Copper Run was founded. Since 
 					  
 					  1992, the generous support and participation of the Copper Run has accomplished so 
 					  
@@ -58,7 +62,7 @@ require "header.php";
 					  
 					  school children that would not be possible without donations from local businesses.					  </p>
 					  <p align="left">&nbsp;</p>
-					  <p align="left">These funds will be used to help cover the costs of our educational programs and on-going sports 
+					  <p align="left">&nbsp; &nbsp; &nbsp;These funds will be used to help cover the costs of our educational programs and on-going sports 
 					  
 					  projects at the school and provide continued support for the Volunteer Firefighter’s Association, as 
 					  
@@ -66,17 +70,17 @@ require "header.php";
 					  
 					  still more work to be done.					  </p>
 					  <p align="left">&nbsp;</p>
-					  <p align="left">If you can contribute as a runner or a sponsor, we thank you for your support!
+					  <p align="left">&nbsp; &nbsp; &nbsp;If you can contribute as a runner or a sponsor, we thank you for your support!
 					  
 					  Your donation is a gift for the future ... for our children and grandchildren…and a more secure 
 					  
 					  future for all the citizens of Copperopolis.					  </p>
 					  <p align="left">&nbsp;</p>
-					  <p align="left">Come for the race and stay for the weekend and enjoy the Sierra Foothills. </p>
+					  <p align="left">&nbsp; &nbsp; &nbsp;Come for the race and stay for the weekend and enjoy the Sierra Foothills. </p>
 					</div>
 				</section>
 			</div>
-			<div class="3u">
+			<!--<div class="3u">
 				<section id="pbox3">
 					<h2>Nothing planned</h2>
 					<ul class="style5">
@@ -92,9 +96,11 @@ require "header.php";
 					</ul>
 					<p><a href="#" class="button-style1">See Full Calendar</a></p>
 				</section>
-			</div>
+			</div>!-->
 		</div>
 	</div>
+	<br />
+	<br />
 <?php
 require "newsFooter.php";
 ?>
