@@ -39,9 +39,9 @@
 					<nav class="mobileUI-site-nav">
 						<ul>
 							<li class="current_page_item"><a href="index.php" title="Returns you to the main page.">Home</a></li>
-							<li><a href="news.php" title="Get cought up on the news.">NEWS</a></li>
+							<!--<li><a href="news.php" title="Get cought up on the news.">NEWS</a></li>-->
 							<li><a href="contributors.php" title="Find out who helped to make this happen.">CONTRIBUTORS</a></li>
-							<li><a href="results.php" title="Whant to know how you did or someone else?">RACE RESULTS</a></li>
+							<!--<li><a href="results.php" title="Whant to know how you did or someone else?">RACE RESULTS</a></li>-->
 							<li><a href="aboutus.php" title="See our story and what we are about.">ABOUT US</a></li>
 						</ul>
 					</nav>

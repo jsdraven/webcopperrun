@@ -4,44 +4,33 @@ require "header.php";
 <div id="wrapper">
 	<div class="5grid-layout" id="page-wrapper">
 		<div class="row">
-			<div class="3u">
-				<section id="pbox1">
-					<h2>Leading CONTRIBUTORS</h2>
-					<ul class="style4">
-						<li class="first">
-							<p><a href="http://wwwblackoakcasino.com" title="A big thanks to Black Oak Casino Resort">Black Oak Casino Resort</a></p>
-							<p><a href="http://www.blackoakcasino.com"  title="A big thanks to Black Oak Casino Resort" target=NEW><img src="images/bocBnG.jpg"></a></p>
-						</li>
-						<li>
-							<p class="date"><a href="http://paylesscopperopolis.iga.com/" title="A Big thanks to Young's Payless IGA" target=NEW>Young's Payless IGA</a></p>
-							<p><a href="http://paylesscopperopolis.iga.com/" title="A big thanks to Young's Payless IGA" target=NEW><img src="images/IGA.jpg" /></a></p>
-						</li>
-						<li>
-							<p class="date"><a href="http://www.boyett.net" title="Thanks to Kwick Serv in Copperopolis" target=NEW>Kwik Serv of Copperopolis</a></p>
-							<p><a href="http://www.boyett.net" title="Thanks to Kwick Serv in Copperopolis" target=NEW><img src="images/KwikServ.jpg"</a></p>
-						</li>
-					</ul>
-				</section>
-			</div>
+<?php
+require "vip.sideList.php";
+?>
+
 			<div class="6u mobileUI-main-content">
 				<section id="pbox2">
 					<div align="center">
                     <br />
 					  <p>Please join us Saturday January 25th, 2014 for the <br /> <H2>ED FRIEL MEMORIAL COPPER RUN</H2></p>
                       <p>Saturday, January 25, 2014, RAIN OR SHINE</p>
-                      <table border="0">
+                    <table border="0">
                       	<tr>
-                        	<td> TIME: 
-                            </td>
-                            <td>
-                            2 Mile Run
-                            </td>9:00 AM
-                            </td>
-                            </tr>
-                            </table>
-
-					  <p>1/2 Mile Run 9:45 AM</p>
-					  <p> 10K Run 10:15 AM</p>
+                        	<td> TIMES: </td>
+                            <td>2 Mile Run</td>
+                            <td>9:00 AM</td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>1/2 Mile</td>
+                            <td>9:45 AM</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        	<td>10K</td>
+                        	<td>10:15 AM</td>
+                        </tr>
+                    </table>
 					  <p> T-Shirts for all race participants – 1st
 					  
 					  , 2nd
@@ -54,7 +43,9 @@ require "header.php";
 					  <p>The Copper Run 2014 lives on…because of You</p>
 					  <br />
 					  <br />
-					  <p align="left"> &nbsp; &nbsp; &nbsp;Twenty two years have passed since the Ed Friel Memorial Copper Run was founded. Since 
+					  </div>
+					  <div align="left">
+					  <p> &nbsp; &nbsp; &nbsp;Twenty two years have passed since the Ed Friel Memorial Copper Run was founded. Since 
 					  
 					  1992, the generous support and participation of the Copper Run has accomplished so 
 					  
@@ -63,22 +54,24 @@ require "header.php";
 					  from the Volunteer Fire Department; and provide educational and sports programs to elementary 
 					  
 					  school children that would not be possible without donations from local businesses.					  </p>
-					  <p align="left">&nbsp;</p>
-					  <p align="left">&nbsp; &nbsp; &nbsp;These funds will be used to help cover the costs of our educational programs and on-going sports 
+					  <p>&nbsp;</p>
+					  <p>&nbsp; &nbsp; &nbsp;These funds will be used to help cover the costs of our educational programs and on-going sports 
 					  
 					  projects at the school and provide continued support for the Volunteer Firefighter’s Association, as 
 					  
 					  well as provide assistance to the Copperopolis library. As much as we’ve accomplished, there is 
 					  
 					  still more work to be done.					  </p>
-					  <p align="left">&nbsp;</p>
-					  <p align="left">&nbsp; &nbsp; &nbsp;If you can contribute as a runner or a sponsor, we thank you for your support!
+					  <p>&nbsp;</p>
+					  <p>&nbsp; &nbsp; &nbsp;If you can contribute as a runner or a sponsor, we thank you for your support!
 					  
 					  Your donation is a gift for the future ... for our children and grandchildren…and a more secure 
 					  
 					  future for all the citizens of Copperopolis.					  </p>
-					  <p align="left">&nbsp;</p>
-					  <p align="left">&nbsp; &nbsp; &nbsp;Come for the race and stay for the weekend and enjoy the Sierra Foothills. </p>
+					  <p>&nbsp;</p>
+					  <p>&nbsp; &nbsp; &nbsp;Come for the race and stay for the weekend and enjoy the Sierra Foothills. </p>
+					  <p>To register download the <a href="docs/Copper_Run_Reg_Form_2014.pdf"> <img src="images/pdf.png" width="32" height="32"  /> 2014 Race registration form.</a> print it and fill it out.</p>
+					  
 					</div>
 				</section>
 			</div>
