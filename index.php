@@ -14,21 +14,21 @@ require "vip.sideList.php";
                     <br />
 					  <p>Please join us Saturday January 25th, 2014 for the <br /> <H2>ED FRIEL MEMORIAL COPPER RUN</H2></p>
                       <p>Saturday, January 25, 2014, RAIN OR SHINE</p>
-                    <table border="0">
+                    <table border="0" >
                       	<tr>
-                        	<td> TIMES: </td>
-                            <td>2 Mile Run</td>
-                            <td>9:00 AM</td>
+                        	<td> TIMES: &nbsp;</td>
+                            <td>&nbsp;2 Mile Run</td>
+                            <td>&nbsp;9:00 AM</td>
                         </tr>
                         <tr>
                             <td>&nbsp;</td>
-                            <td>1/2 Mile</td>
-                            <td>9:45 AM</td>
+                            <td>&nbsp;1/2 Mile</td>
+                            <td>&nbsp;9:45 AM</td>
                         </tr>
                         <tr>
                         	<td>&nbsp;</td>
-                        	<td>10K</td>
-                        	<td>10:15 AM</td>
+                        	<td>&nbsp;10K</td>
+                        	<td>&nbsp;10:15 AM</td>
                         </tr>
                     </table>
 					  <p> T-Shirts for all race participants – 1st
