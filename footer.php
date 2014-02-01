@@ -22,7 +22,7 @@
                 </ul>
 			</section>
 		</div>
-		<div class="3u">
+		<!-- <div class="3u">
 			<section>
 				<h2>Race Map</h2>
 				<ul class="style3">
@@ -31,7 +31,7 @@
                     <li><a href="#">Two Mile</a></li>
                 </ul>
 			</section>
-		</div>
+		</div> -->
 		<div class="3u">
 			<section>
 				<h2>Registration</h2>
