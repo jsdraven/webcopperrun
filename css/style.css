@@ -298,7 +298,10 @@ ul.style5 .first {
 	border-top: none;
 }
 
-
+div.colum {
+	float: left;
+	
+}
 
 
 
